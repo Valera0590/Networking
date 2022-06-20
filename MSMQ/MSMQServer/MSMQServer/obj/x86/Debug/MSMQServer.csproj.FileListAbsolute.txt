@@ -1,0 +1,36 @@
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQServer\MSMQServer\obj\x86\Debug\MSMQ.frmMain.resources
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQServer\MSMQServer\bin\Debug\MSMQServer.exe
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQServer\MSMQServer\bin\Debug\MSMQServer.pdb
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.exe
+c:\users\alexander\documents\visual studio 2010\Projects\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.pdb
+C:\Users\Alexander\Desktop\12345\New\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.exe
+C:\Users\Alexander\Desktop\12345\New\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.pdb
+C:\Users\Alexander\Desktop\12345\New\MSMQServer\MSMQServer\bin\Debug\MSMQServer.exe
+C:\Users\Alexander\Desktop\12345\New\MSMQServer\MSMQServer\bin\Debug\MSMQServer.pdb
+C:\Users\Alexander\Desktop\12345\New\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.Properties.Resources.resources
+C:\Users\Alexander\Desktop\12345\New\MSMQServer\MSMQServer\obj\x86\Debug\MSMQ.frmMain.resources
+C:\Users\Alexander\Desktop\12345\New\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.csproj.GenerateResource.Cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\MSMQServer.exe
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\MSMQServer.pdb
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.csproj.AssemblyReference.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.Properties.Resources.resources
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ\MSMQServer\MSMQServer\obj\x86\Debug\MSMQ.frmMain.resources
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.csproj.GenerateResource.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.csproj.CoreCompileInputs.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.exe
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.pdb
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ\MSMQServer\MSMQServer\bin\Debug\MSMQServer.exe.config
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ(измен)\MSMQServer\MSMQServer\bin\Debug\MSMQServer.exe.config
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ(измен)\MSMQServer\MSMQServer\bin\Debug\MSMQServer.exe
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ(измен)\MSMQServer\MSMQServer\bin\Debug\MSMQServer.pdb
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ(измен)\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.csproj.AssemblyReference.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ(измен)\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ(измен)\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.Properties.Resources.resources
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ(измен)\MSMQServer\MSMQServer\obj\x86\Debug\MSMQ.frmMain.resources
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ(измен)\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.csproj.GenerateResource.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ(измен)\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.csproj.CoreCompileInputs.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ(измен)\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.exe
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\4_MSMQ(измен)\MSMQServer\MSMQServer\obj\x86\Debug\MSMQServer.pdb
