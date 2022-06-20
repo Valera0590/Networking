@@ -1,0 +1,45 @@
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsServer\SocketsServer\obj\x86\Debug\Sockets.frmMain.resources
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsServer\SocketsServer\bin\Debug\SocketsServer.exe
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsServer\SocketsServer\bin\Debug\SocketsServer.pdb
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.exe
+c:\users\alexander\documents\visual studio 2010\Projects\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.pdb
+C:\Users\Alexander\Desktop\12345\New\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.exe
+C:\Users\Alexander\Desktop\12345\New\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.pdb
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\bin\Debug\SocketsServer.exe
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\bin\Debug\SocketsServer.pdb
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\bin\Debug\mscorlib.dll
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\bin\Debug\sortkey.nlp
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\bin\Debug\sorttbls.nlp
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\bin\Debug\big5.nlp
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\bin\Debug\bopomofo.nlp
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\bin\Debug\ksc.nlp
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\bin\Debug\prc.nlp
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\bin\Debug\prcp.nlp
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\bin\Debug\xjis.nlp
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\bin\Debug\normidna.nlp
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\bin\Debug\normnfc.nlp
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\bin\Debug\normnfd.nlp
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\bin\Debug\normnfkc.nlp
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\bin\Debug\normnfkd.nlp
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.Properties.Resources.resources
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\obj\x86\Debug\Sockets.frmMain.resources
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.csproj.GenerateResource.cache
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.csproj.CoreCompileInputs.cache
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.csproj.CopyComplete
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.exe
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.pdb
+C:\Users\Валерий\Desktop\3_Sockets\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.csproj.AssemblyReference.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\3_Sockets(UDP)\SocketsServer\SocketsServer\bin\Debug\SocketsServer.exe
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\3_Sockets(UDP)\SocketsServer\SocketsServer\bin\Debug\SocketsServer.pdb
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\3_Sockets(UDP)\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.csproj.AssemblyReference.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\3_Sockets(UDP)\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.Properties.Resources.resources
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\3_Sockets(UDP)\SocketsServer\SocketsServer\obj\x86\Debug\Sockets.frmMain.resources
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\3_Sockets(UDP)\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.csproj.GenerateResource.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\3_Sockets(UDP)\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.csproj.CoreCompileInputs.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\3_Sockets(UDP)\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.exe
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\3_Sockets(UDP)\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.pdb
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\3_Sockets(UDP)\SocketsServer\SocketsServer\bin\Debug\SocketsServer.exe.config
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\3_Sockets(UDP)\SocketsServer\SocketsServer\obj\x86\Debug\SocketsServer.csproj.SuggestedBindingRedirects.cache
