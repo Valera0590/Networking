@@ -1,0 +1,61 @@
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlots.frmMain.resources
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\bin\Debug\MailSlotsClient.exe
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\bin\Debug\MailSlotsClient.pdb
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.exe
+c:\users\alexander\documents\visual studio 2010\Projects\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.pdb
+C:\Users\Alexander\Desktop\12345\New\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.exe
+C:\Users\Alexander\Desktop\12345\New\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.pdb
+C:\Users\Alexander\Desktop\12345\New\MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.exe
+C:\Users\Alexander\Desktop\12345\New\MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.pdb
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\MailSlotsClient.exe
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\MailSlotsClient.pdb
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\mscorlib.dll
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\sortkey.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\sorttbls.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\big5.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\bopomofo.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\ksc.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\prc.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\prcp.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\xjis.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\normidna.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\normnfc.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\normnfd.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\normnfkc.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\bin\Debug\normnfkd.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.AssemblyReference.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlots.frmMain.resources
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.Properties.Resources.resources
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.GenerateResource.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.CoreCompileInputs.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.CopyComplete
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.exe
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.pdb
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\bin\Debug\MailSlotsClient.exe
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\bin\Debug\mscorlib.dll
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\bin\Debug\sortkey.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\bin\Debug\sorttbls.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\bin\Debug\big5.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\bin\Debug\bopomofo.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\bin\Debug\ksc.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\bin\Debug\prc.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\bin\Debug\prcp.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\bin\Debug\xjis.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\bin\Debug\normidna.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\bin\Debug\normnfc.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\bin\Debug\normnfd.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\bin\Debug\normnfkc.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\bin\Debug\normnfkd.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.AssemblyReference.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlots.frmMain.resources
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.Properties.Resources.resources
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.GenerateResource.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.CoreCompileInputs.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.csproj.CopyComplete
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.exe
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\obj\x86\Debug\MailSlotsClient.pdb
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\2_MailSlots(измененный)\MailSlotsClient\MailSlotsClient\bin\Debug\MailSlotsClient.pdb
