@@ -1,0 +1,59 @@
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\obj\x86\Debug\PipesServer.Properties.Resources.resources
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\obj\x86\Debug\Pipes.frmMain.resources
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\obj\x86\Debug\PipesServer.csproj.GenerateResource.Cache
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\bin\Debug\PipesServer.exe
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\bin\Debug\PipesServer.pdb
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\obj\x86\Debug\PipesServer.exe
+c:\users\alexander\documents\visual studio 2010\Projects\PipesServer\PipesServer\obj\x86\Debug\PipesServer.pdb
+C:\Users\Alexander\Desktop\12345\New\PipesServer\PipesServer\obj\x86\Debug\PipesServer.exe
+C:\Users\Alexander\Desktop\12345\New\PipesServer\PipesServer\obj\x86\Debug\PipesServer.pdb
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\bin\Debug\PipesServer.exe
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\bin\Debug\PipesServer.pdb
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\bin\Debug\mscorlib.dll
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\bin\Debug\sortkey.nlp
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\bin\Debug\sorttbls.nlp
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\bin\Debug\big5.nlp
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\bin\Debug\bopomofo.nlp
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\bin\Debug\ksc.nlp
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\bin\Debug\prc.nlp
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\bin\Debug\prcp.nlp
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\bin\Debug\xjis.nlp
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\bin\Debug\normidna.nlp
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\bin\Debug\normnfc.nlp
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\bin\Debug\normnfd.nlp
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\bin\Debug\normnfkc.nlp
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\bin\Debug\normnfkd.nlp
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.csproj.AssemblyReference.cache
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.Properties.Resources.resources
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\Pipes.frmMain.resources
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.csproj.GenerateResource.cache
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.csproj.CoreCompileInputs.cache
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.csproj.CopyComplete
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.exe
+C:\Users\okrei\Desktop\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.pdb
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\bin\Debug\PipesServer.exe
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\bin\Debug\PipesServer.pdb
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\bin\Debug\mscorlib.dll
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\bin\Debug\sortkey.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\bin\Debug\sorttbls.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\bin\Debug\big5.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\bin\Debug\bopomofo.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\bin\Debug\ksc.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\bin\Debug\prc.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\bin\Debug\prcp.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\bin\Debug\xjis.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\bin\Debug\normidna.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\bin\Debug\normnfc.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\bin\Debug\normnfd.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\bin\Debug\normnfkc.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\bin\Debug\normnfkd.nlp
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.csproj.AssemblyReference.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.Properties.Resources.resources
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\Pipes.frmMain.resources
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.csproj.GenerateResource.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.csproj.CoreCompileInputs.cache
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.csproj.CopyComplete
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.exe
+C:\Users\Валерий\Desktop\Универ\8 трим\Технол расп вычисл\1_Pipes(2)\1_Pipes\PipesServer\PipesServer\obj\x86\Debug\PipesServer.pdb
